@@ -90,7 +90,7 @@ export default {
       fullName: function () {
         return this.firstName + ' ' + this.lastName
       }
-    }
+    },
 
     /***************************************************************************/
     /*       Acciones que se realizan cuando es creado este componente         */
